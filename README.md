@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Minas Achladianakis!  
 
-<!--
-**minas-achladianakis/minas-achladianakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MSc in Applied Mathematics | Data Science & Optimization Enthusiast**  
 
-Here are some ideas to get you started:
+🔍 **Key Areas of Interest:**  
+- 📊 **Data Science & Machine Learning** (Deep Learning, Predictive Analytics, Statistical Modeling, Linear Models)  
+- 🔧 **Optimization & Applied Mathematics** (Stochastic Optimization, Bayesian Inference, Evolutionary Algorithms, EDAs)  
+- 🤖 **Computational Research & AI** (Neural Networks, Expectation Maximization, Covariance Matrix Adaptation, Probabilistic Modeling, Monte Carlo Methods)  
+- 🔥 **Real-World Applications** (Predictive Modeling in Fire Risk, Epidemics, and Complex Systems)  
+- 📖 **Mathematical Research & Modeling** (Black-Box Optimization, Numerical Methods)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **My GitHub Repositories Include:**  
+- 📚 **Coursework & Exercises** – University & Bootcamp solutions (Python, Jupyter).  
+- 📝 **Theoretical Work** – Research PDFs, LaTeX reports, and mathematical proofs.  
+- 🔍 **Applied ML & AI Projects** – Machine Learning models and real-world applications.  
+
+### 📫 Contact Me:
+- ✉️ **Email:** achladianakisminas@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/achladianakisminas/ 
+<!-- - 🌍 **Website (if applicable):** yourwebsite.com -->
+ 
+
+---
+
+🚀 **Open to job opportunities, collaborations & PhD opportunities in Applied Math, Data Science, AI & Computer Science.**  
+
